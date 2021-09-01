@@ -17,6 +17,9 @@ header  {
  padding: 20px;
 }
 footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
     clear: both;
     background-color:  #35b8b0;
     height: 80px;
